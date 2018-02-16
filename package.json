@@ -1,0 +1,25 @@
+{
+  "name": "querier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "query.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node query"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhackett1/derp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhackett1/derp/issues"
+  },
+  "homepage": "https://github.com/jhackett1/derp#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "bar-horizontal": "^0.4.0",
+    "mongodb": "^3.0.2"
+  }
+}
